@@ -1,0 +1,3 @@
+winners[Scissors, Rock, Paper]
+hands[Rock, Paper, Scissor]
+A = win(X), Draw(Y), lose(Z)
